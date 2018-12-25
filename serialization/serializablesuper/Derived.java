@@ -1,4 +1,4 @@
-package com.kunal.serialization.serializablesuper;
+package com.kunal.practice.serialization.serializablesuper;
 
 public class Derived extends Base {
 

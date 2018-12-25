@@ -1,4 +1,4 @@
-package com.kunal.serialization.externalization;
+package com.kunal.practice.serialization.externalization;
 
 import java.io.Externalizable;
 import java.io.IOException;

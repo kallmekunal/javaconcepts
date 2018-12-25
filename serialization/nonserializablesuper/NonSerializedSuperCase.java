@@ -1,4 +1,4 @@
-package com.kunal.serialization.nonserializablesuper;
+package com.kunal.practice.serialization.nonserializablesuper;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

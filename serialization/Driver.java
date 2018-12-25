@@ -1,4 +1,4 @@
-package com.kunal.serialization;
+package com.kunal.practice.serialization;
 
 import java.io.File;
 import java.io.FileInputStream;
